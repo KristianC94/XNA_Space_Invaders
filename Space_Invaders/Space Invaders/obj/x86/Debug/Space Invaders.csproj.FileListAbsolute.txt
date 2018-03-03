@@ -1,0 +1,14 @@
+C:\Users\Kristian\Documents\Visual Studio 2010\Projects\Space Invaders\Space Invaders\Space Invaders\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Kristian\Documents\Visual Studio 2010\Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Content\Background.xnb
+C:\Users\Kristian\Documents\Visual Studio 2010\Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Content\Gunship.xnb
+C:\Users\Kristian\Documents\Visual Studio 2010\Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Content\Invader.xnb
+C:\Users\Kristian\Documents\Visual Studio 2010\Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Content\InvaderBomb.xnb
+C:\Users\Kristian\Documents\Visual Studio 2010\Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Content\Missile.xnb
+C:\Users\Kristian\Documents\Visual Studio 2010\Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Content\Font1.xnb
+C:\Users\Kristian\Documents\Visual Studio 2010\Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Space Invaders.exe
+C:\Users\Kristian\Documents\Visual Studio 2010\Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Space Invaders.pdb
+C:\Users\Kristian\Documents\Visual Studio 2010\Projects\Space Invaders\Space Invaders\Space Invaders\obj\x86\Debug\Space Invaders.exe
+C:\Users\Kristian\Documents\Visual Studio 2010\Projects\Space Invaders\Space Invaders\Space Invaders\obj\x86\Debug\Space Invaders.pdb
+C:\Users\Kristian\Documents\Visual Studio 2010\Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Content\Font2.xnb
+C:\Users\Kristian\Documents\Visual Studio 2010\Projects\Space Invaders\Space Invaders\Space Invaders\obj\x86\Debug\Space Invaders.csprojResolveAssemblyReference.cache
+C:\Users\Kristian\Documents\Visual Studio 2010\Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Content\Font3.xnb
